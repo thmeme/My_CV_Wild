@@ -1,0 +1,74 @@
+body {
+  background-color: rgb(104, 187, 285);
+}
+header {
+  background-color: rgb(24, 84, 128);
+  margin: 25px 25px 25px 25px;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+  color: white;
+  }
+h1 {
+  font-size: 50px;
+}
+.titre-box {
+  font-size: 30px;
+}
+#container {
+  background-color: rgb(24, 84, 128);
+  margin: 0px 25px 25px 25px;
+  border-radius: 5px;
+  padding: 1px;
+
+}
+#left-box {
+  float: left;
+  background-color: rgb(9, 30, 45);
+  color: white;
+  width: 200px;
+  margin: 25px 25px 25px 25px;
+  border-radius: 5px;
+  padding: 10px;
+}
+#right-box {
+  background-color: rgb(9, 30, 45);
+  margin : 25px 25px 25px 270px;
+  padding: 25px;
+  border-radius: 5px;
+
+}
+#experiences-box {
+    background-color: white;
+    padding: 1px 25px 15px 25px;
+    margin-bottom: 25px;
+    border-radius: 5px;
+}
+.experience {
+    background-color: rgb(104, 187, 285);
+    border-radius: 5px;
+    padding: 1px 10px 10px 10px;
+    margin-bottom: 10px;
+}
+#studies-box {
+  background-color: white;
+  padding: 1px 25px 15px 25px;
+  margin-bottom: 25px;
+  border-radius: 5px;
+}
+.study {
+  background-color: rgb(104, 187, 285);
+  border-radius: 5px;
+  padding: 1px 10px 10px 10px;
+  margin-bottom: 10px;
+}
+#footer {
+  background-color: rgb(24, 84, 128);
+  margin: 25px 25px 25px 25px;
+  padding: 10px;
+  border-radius: 5px;
+}
+#photo {
+  width: 100%;
+  border-radius: 5px;
+}
